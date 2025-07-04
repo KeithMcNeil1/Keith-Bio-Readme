@@ -1,1 +1,2 @@
 # Keith-Bio-Readme
+Hi, I’m a 16-year-old aspiring web developer passionate about building creative and functional websites. I’m currently developing a fashion site for my own brand, combining tech and design. Through The Knowledge House Fellowship and school computer science classes, I’ve gained experience with HTML, JavaScript, Figma, and CodeHS. I’m learning GitHub hoping to better manage my projects, collaborate with others, and showcase my work as I grow in tech.
